@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./Barky2024_Refactor_2/src/tests/test",
+        "./Barky2024_Refactor_2/src/tests/test",
+        "./Barky2024_Refactor_2/src/barky/adapters"
+    ]
+}
